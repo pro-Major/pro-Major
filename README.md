@@ -1,5 +1,11 @@
 # 💫 About Me:
-I'm currently working for a startup named WIFY Technology in Mumbai <br>I'm expert in creating full stack web application in typescript with React and Node.<br>I'm currently learning Electron JS , Capacitor Js , Next Js and planning to learn prompt engineering to move in AI development.
+Senior Full Stack Engineer with 5 years of experience designing and shipping production-grade systems across
+web, mobile, and backend. Specialises in TypeScript, React, Node.js, PostgreSQL, and GraphQL, with hands-on
+expertise in AWS cloud infrastructure, event-driven microservices, and LLM-integrated applications. Currently
+leading engineering at Wiffy Technology, driving 60% business growth across a platform serving 12,000+ users.
+Delivered measurable results including an 87% reduction in Android app size, 80% improvement in install
+conversion, and real-time AI voice agent platforms. Proven ability to own full product lifecycles from schema
+design through mobile deployment.
 
 
 ## 🌐 Socials:
